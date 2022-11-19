@@ -1,0 +1,15 @@
+:root {
+  --font-cursive: "Great Vibes", cursive;
+  --font-basic: "Comis Sans MS", serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-cursive);
+  color: #232828;
+}
+
+* {
+  font-family: var(--font-basic);
+}
